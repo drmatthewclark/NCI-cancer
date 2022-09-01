@@ -1,0 +1,267 @@
+AA Nontumored Animals (Toxicity Test)
+AC Carcinoma Adrenal Cortex (No. 2)
+AD ADJ-PC-22 Plasma Cell
+AG L1210 Leukemia/8-Azaguanine; NSC 749
+AK Lymphoma AKR (Transplanted)
+AM Amelanotic Melanoma (No. 4)
+AS Rat AC Glioma
+A2 ADJ-PC-20 Plasma Cell
+A3 Lieberman Plasma Cell No. 1 (LPC-1)
+A5 ADJ-PC-5 Plasma Cell
+A6 ADJ-PC-6
+BA Clone Derived Amelanotic B16
+BC L1210 Leukemia/BCNU; NSC 409962
+BM Clone Derived Melanotic B16
+BP P388 Leukemia/BCNU: NSC 409962
+B1 B16 Melanoma
+CA Adenocarcinoma 755
+CB **missing value**
+CD Mammary Adenocarcinoma CD8F1
+CH Chang Liver (Cell Culture)
+CL NCI-H460 Large Cell Carcinoma of the Lung
+CM Dunning Leukemia/Mitomycin C; NSC 26980 (Solid)
+CP P388 Leukemia/Cis DDPT: NSC 119875
+CR L1210 Leukemia/Cytocan & Ara-C; NSC 26271 NSC 33878
+CS Dunning Leukemia/Cycloleucine
+CX L1210 Leukemia/Cytoxan; NSC 26271
+CY Colon 36
+CZ Colon 51
+C2 HT29 : CX-1 Human Adenocarcinoma (MER+)
+C3 C3H Mammary Tumor
+C4 CX-2 Colon Xenograft
+C5 CX-3 Colon Xenograft
+C6 Colon 26 Adenocarcinoma
+C7 CX-4 Colon Xenograft
+C8 Colon Carcinoma 38
+C9 CX-5 Colon Xenograft
+DA Dunning Leukemia (Ascites) (See DL)
+DH Dunning Leukemia/HexamethyImelamine; NSC 13875
+DL Dunning Leukemia (Ascitic)
+DM DMBA Induced Mammary Adenocarcinoma
+DN Dunning Leukemia/A Nitrogen Mustard; NSC 51845 (Solid)
+DP L1210 Leukemia/Cisplatin II; NSC 119875
+DR Dunning Leukemia/A Thiopurine: NSC 29189 (Ascitic)
+DX Dunning Leukemia/Cytoxan; NSC 26271 (Ascitic)
+D1 Adenocarcinoma. Duodenum (Hamster & Cell Culture)
+EA Ehrlich Ascites Tumor
+EC B-Galactoside Phage
+EM Ependymoblastoma
+EN Adenocarcinoma, Endometrium
+EP Ependymoblastoma
+FM Friend Virus Erythroleukeima Ascites (P. Marks Line DS-19)
+FR P815/5-Fluorouridine: NSC 27640 (Ascitic)
+FS Fibrosarcoma (No 2)
+FU P815/5-Fluorouracil; NSC 19893 (Ascitic)
+FV Friend Virus Leukemia (Solid)
+GA Lymphosarcoma Gardner 6C3HED
+GE Adl Gardner 6C3HED Lymphosarcoma/l-Asparaginase: NSC 109229
+GL Lymphosarcoma LePage Gardner 6C3HED Sensitive to Ara-A: NSC 404241
+G1 Lymphosarcoma LePage Gardner 6C3HED Sensitive to Ara-A: NSC 404241 **missing**
+GS 239PU-Induced Osteogenic Sarcoma
+Gl Glioma 261
+G2 Glioma 26
+HD Hepatoma 134
+HE Hepatoma 129 (Mouse)
+HE Cystadenocarcinoma.  Liver (No. 1) (Hamster)
+HG Hep 2/2-Flouroadenine & 2-Fluoroadenosine; NSC 27364 NSC 30605 
+HH HEP 2/6-MP & 6-Methylthiopurine Ribonucleoside & 2-Fluorodenine; NSC 755, NS 4911, NSC 27364
+HL HL-60 Human Promvelocytic' Leukemia Xenograft
+HM Hep 369; 2/6-Methylthiopurine Ribonucleoside: NSC 4911
+HN NSC 755-Mus& SoMethylthiopur1ne Ribonucleoside; NSC 755, NSC 4911
+HR Hep 2/6-Mercaptopurine; NSC 755
+HU L1210 Leukemia/Hydroxyurea; NSC 32065 NSC 740
+HX Hep 2/Methotrexate: NSC 740
+H2 Hep 2 Human Epidermoid Carcinoma
+H3 Hep 3 Human Epidermoid Carcinoma
+IC L1210 Intracerebral Inoculation (See LE)
+IC Dunning Leukimia Intracerebral Inoculation (See DL)
+JA NCI-H23 Human Lung Adenocarcinoma
+JB NCI-H324 Human Lung Adenocarcinoma
+JC NCI-H522 Human Lung Adenocarcinoma
+JD NCI-H125 Human Lung Adenosquamous Carcinema
+JE NCI-H358 Human Lung Bronchiolo-Alyeolar, Carcinoma
+JF NCI-H292 Human Lung Mucoepidermoid Carcinoma
+JG **missing**
+JH **missing**
+JK **missing**
+JM **missing**
+JP **missing**
+JV **missing**
+JW **missing**
+JX **missing**
+JZ **missing**
+KB Human Epidermoid Carcinoma of the Nasopharvnx (Cell Culture)
+KC **missing**
+KD **missing**
+K4 AK4 Lymphoid Leukemia
+LA L1210 Leukemia/Azacytidine; NSC 102816
+LB L1210 Leukemia/BIC: NSC 82196
+LC **missing**
+LD **missing**
+LE L1210 Leukemia
+LF 11210 Leukemia/Methotrexate & Dichloromethotrexate: NSC 740. NSC 29630
+LG L1210 Leukemia/Guanazole: NSC 1895
+LH E1218 Leukemia/Cyclocytidine; NSC 145668
+LJ L1210 Leukemia/L-Alanosine; NSC 153353
+LK Human Lung LX-1 Xenograft
+LL Lewis Lung Carcinoma
+LM L1210 Leukemia/Dichloromethotrexate: NSC 29630
+LN A549 Human Adenocarcioma of the Lung with characteristics of Type II Alveolar Epitheleial cells
+LO Human Amelanotic Melanoma (LOX)
+LP Liposarcoma (No. 1)
+LQ L1210 Leukemia/Methane Sulfonate: NSC 102627
+LR LI210 Leukemia/6-MMPR: NSC 40774
+LS L1210 Leukemia/L-PAM: NSC 8806
+LT Li2io Leukemia/Ftorafur; NSC 148958
+LU L1210 Leukemia/5-Fluorouracil: NSC 19893
+LV NCI-H322 Human Lung Bronchiolo-Alveolar Carcinoma
+LW L1210 Leukemia/A Terephthalanilide NSZC 38280
+LX L1210 Leukemia/Methotrexate; NSC 740
+LY Lewis Lung Carcinoma/PALA NSC 224131
+LX L1210 Leukemia/Methotrexate
+L2 Lymphoma 2
+L2 Leiomvosarcoma (No. 2)
+L4 Lymphoma 4 
+L8 Lymphoma 8
+L8 15178Y Lymphatic Leukemia
+L9 L5178Y Lymphatic Leukemia/L-Asparaginase: NSC 109229
+MA 13762 Mammary Adenocarcinoma
+MB Human Mammarv Carcinoma MX-i Xenograft
+MC Adenocarcinoma. Breast
+MD Madison 109 Lung Carcinoma
+ME Lymphosarcoma Mecca
+MF Human Breast MX-2 Xenograft
+MG Human Breast MX-3 Xenograft
+MH EMT6 Fibrosarcoma
+ML L1210 Leukemia/Methy1-GAG; NSC 32946
+MM Melanotic Melanoma
+MP L1210 Leukemia/6-MP & 6-Thioguanine; NSC 755. NSC 752
+MS Lymphosarcoma Murphy-Sturm
+MT Human Mesothelioma
+MX MXT Hormone Dependent Transplantable Mammary Adenocarciroma
+MY Myeloid Leukemia in REM/UN Mouse
+M2 MPC-2 Plasma Cell
+M5 Sarcoma M5076
+M6 M5076/Cisplatin II; NSC 119875
+M7 Agrobacterium Tumetaciens Microbial Assay
+M8 Candida Albicans Microbial Assay
+M9 Zanthomona Compestris Microbial Assay
+NH Novikoff Hepatoma
+NL Nova Leukemia NRL-1871
+NP Plasmacutoma No.  1/BCNU; NSC 409962
+NR Neurilemmoma No. 1
+OC Human Ovarian Carcinoma
+OG Osteogenic Sarcoma
+OS Osteogenic Sarcoma HE 10734
+OT Human Ovarian Sarcoma
+PA P388 Leukemia/Adriamydin; NSC 123127, Developed at Sr 08
+PB P388 Leukemia/Daunomycin; NSC 8215l
+PC P388 Leukemia/ARA-C: NSC 63878
+PD P388 Leukemia/Actinomycin-D; NSC 3053
+PE P388 Leukemia/AMSA; NSC 249992
+PF P388 Leukemia/Dihydroxy Anthracenedione; NSC 299195
+PG P388 Leukemia/DON; NSC 7365
+PH P388 Leukemia/Acivicin NSC 163501
+PJ P388/Bleomycin; NSC 125066
+PK P388 Leukemia/Ellipticine; NSC 71795
+PL P815/Vinblastine; NSC 49842
+PM Plasmacytoma No.  !/Triethvlenemelamine: NSC 9706
+PN Adenocarcinoma Pancreas No. 1
+PO P388 Leukemia/Cytoxan NSC 26271
+PP P388 Leukemia/L-PAM: NSC 8806
+PQ P388 Leukemia Bristol Strain
+PR Adenocarcinoma. Prostate
+PS P388 Leukemia
+PT Carcinoma, Pitutary
+PU P388 Leukemia/5-Fluorouracil: NSC 19893
+PV P388 Leukemia/Vincristine: NSC 67574
+PW P388 Leukemia/A Terephthalanilide;NSC 38280
+PX Plasmacytoma No. 1/Cytoxan; NSC 26271
+PY PY89 Sarcoma
+PZ P388 Leukemia/5-Azacytidine: NSC 102816
+P1 Plasmacytoma No. 1
+P2 P388 Leukemia/ARA-A & 2'-Deoxycoformycin: NSC 404241 NSC 218321 (ADL)
+P3 P1534/Methotrexate: NSC 740
+P4 P1534 Leukemia
+P6 P388 Leukemia/L-Alanosine: NSC 153353
+P7 P388 Leukemia/Methotrexate: NSC 740
+P8 P815 Mast Cell Leukemia (Ascitic)
+P9 P329 Reticulum Cell Sarcoma
+RC Adenocarcinoma, Kidney
+RE Renal Cell Carcinoma
+RO Osteogenic Sarcoma Ridgway
+RS Reticulum Cell Sarcoma (Kelley Mouse)
+RS Reticulum Cell Lumphosarcoma No 5 (Hamster)
+RX Ros/Cytoxan; NSC 26271
+SA Sarcoma 180
+SB Adenosarcoma Small Bowel (Ileum)
+SC Human Tumor Colony Forming Assay
+ST Special Testing Biochemical Assav (Host98)
+TC L1210 Leukemia picolinaldhude.  Thiosemicarbazone NSC 779
+TE TE-671 Human Meduloblastoma
+TG Dunning Leukemia/Thioquanine Riboside NSC 79427
+TR P388 eukemia/Tiazofurin: NSC 286193 Developed at Scr 08
+UG U-251 Human Glioma
+VA Colon Xenograft CS-1
+VB **missing**
+VE **missing**
+VG BREAST XENOGRAFT BS-3
+VH BREAST XENOGRAFT BS-4
+VI LUNG XENOGRAFT LS-1
+VJ PANCREAS XENOGRAFT PS -1
+VK SARCOHA XENOGRAFT SS-1
+VL SAPCOMA XENOGRAFT SS-2
+VM MELANOMA XENCGRAFT MS-1
+VN MELANOMA XENOCRAFT MS-2
+VO MELANOMA XENOGRAFT MS-3
+VP MELANCMA XENOGRAFT MS-4
+VQ MELANCHA XENOGRAFT M5-5
+VR MELANCMA XENOGRAFT M5-6
+VS MELANCHA XENOGRAFT MS-7
+VT MELANOMA XENOGRAFT MS-8
+WA WALKER CARCINOSARCOMA 256 (SUBCUTANEOUS)
+WC WALKER CARCINOMA/CYTOXAN; ASC 26271
+WI HALKER CARCINOSARCOMA 256 (INTRAPERITONEAL) (SEE WA)
+WM WALKER CARCINOSARCOMA 255 (INTRAMUSCULAR) (SEE WA)
+WP WALKER CARCINOSARCOMA 255 (PULMONARY) (SEE LA)
+XE ERLICH ASCITES TUMOR ENZYMES (BIOCHEMICAL ASSAY)
+XL L1210 LEUKEMIA (BIOCHEMICAL ASSAY)
+XM HUMAN LEUKEMIA CELL ENZYME (BIOCHEMICAL ASSAY)
+XN HUMAN ERYTHROCYTE ENZYME (BICCHEMICAL ASSAY)
+XR HUMAN ROC DIMOLE] (BIOCHEMICAL ASSAY)
+XS HUMAN RBC CUNSPECIFIED] (BIOCHEMICAL ASSAY)
+XX HUMAN RBC [BROKEN] (BIOCHEMICAL ASSAY)
+XY HUMAN LIVER
+YC MYELOID LEUKEMIA/ARA-C; NSC 63878 IN REM/UM MOUSE
+10 COLON CYSTADEMOCARCINOMA 10/ A
+11 COLON ADENOCARCIMOMA 11/A
+12 COLON CYSTADENOCARCINOMA 12/A
+13 C3H MAMMARY ADENOCARCINCMA 13/C
+14 C3H MAMMARY ADENOCARCINOMA 14/C
+16 C3H MAIM1ARY ADENOCARCINOMA 16/C
+17 C3H MAMMARY ADENCCARCINCIA 17/C
+18 C3H MAMMARY CYSTADENOCARCINOMA 18/C
+2P PANCREATIC CARCINO1A 02
+2R P338 LEUPEMIA/TIAZOFURIN; NSC 236193, DEVELOPED AT LMCB, DTP, DCT, NCI
+2S P388 LEUKEMIA/SMETANTRONE, NSC 237513
+2T P333 LEUKEMIA/ADRIAMYCIN; NSC 123127, DEVELOPED AT SCR 06 & 41
+2U P328 LEUKEMIA/ADRIAMYCIN; NSC 123127, DEVELOPED AT SCR 01
+2X P283 LYMPHOCYTIC LEUKEMIA/METHOTREXATE; NSC 740
+23 C3H MAMMARY ADENOCARCINOMA 23/C
+25 CARCINOMA: 1025
+28 P288 LYMPHOCYTIC LEUKEMIA
+4A 14946 LYMPHATIC LEUKENTA/AZASERINE: NSC 742
+49 L4946 LYMPHATIC LEUKEMIA (SOLID)
+5P P335 LEUKEMIA
+6A COLON 06/A
+6M L1210 LEUKEMIA/6-MP & 6-MMPR & 6-THIOGUANINE; NSC 755 NSC 40774, NSC NSC 752 
+6T L1210 LEUKEMIAP6-THIOGUANINE; NSC 752
+7A COLON 07/A
+7P CA 755/6-MERCAPTOPURINE: NSC 755
+8A COLON 03/A
+8C PI79S/CORTISONE; NSC 9703
+3P P1798 LYMPHOSARCOMA
+8P P1798 LYMPHOSARCOMA *missing*
+81 P1081 CHLOROLEUKEMIA
+91 S-91 CLOUDMAN MELANOTIC MELANOMA 
+98 C1498 MYELOID LEUKEMIA

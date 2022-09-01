@@ -1,0 +1,18 @@
+ * not specified
+ 1 intraperitoneal
+ 2 subcutaneous
+ 3 spontaneous
+ 4 induced
+ 5 intrarenal inoculation or subrenal capsule
+ 6 intramuscular
+ 7 intracerebral
+ 8 vascular area of chorioallantoic membrane
+ 9 intravenous
+ A not applicable
+ B intrathoracic
+ E ear
+ F foot pad
+ S intrasplenic
+   not applicable
+ C orthotopic
+OT orthotopic site

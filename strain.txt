@@ -1,0 +1,86 @@
+01 Swiss
+02 B6D2F1 (BDF1)
+03 C57BL/6
+04 DBA/2
+05 BCF
+06 CD2F1(CDF1)
+07 C3H/He
+08 C3AKF1 (CHKRF1)
+09 unk
+1A B6C3F1
+1B BALB/CM
+1C C3B6F1
+1D CR:NIH(S)-nu
+1E AKR/J
+1F Athymic NCr-nu
+1G RFM/UN
+1H BALB/cAnNCr-nu
+1J NIH - Il
+1K CR:BG/nu (Beige nude mice)
+10 D2B6F1 (DBF1)
+11 CBF1
+12 BAF1
+13 ABF1	
+14 D2CF1 (DCF1)
+15 LAF1
+16 ALF1
+17 KRCHF1 (AKC3F1)
+18 AKR/LW
+19 C57L
+20 A/L
+21 C3Hf/He
+22 CAF,
+23 C57BL/10SC
+24 NBL (mutation from
+25 C57BL/10H2d)
+26 A/He
+27 A/J
+28 BALB/cJ
+29 BALB/c An
+30 NZB
+31 NZW
+32 SJL/J
+33 SM/J
+34 CBA/J
+35 CAF,/N
+36 CAF,/J
+37 AKD2F1
+38 D2AKF1
+39 mouse species not specified
+40 C3D2F1
+41 ZWZBF1 (NZW/ B1 X NZW/B1)
+42 ZBZWF1 (NZB/ B1 X NZW/B1)
+43 CFW/PI
+44 NIH/P1
+45 PRI/P1
+46 AL/N
+47 BALB/cfC3H
+48 DBA/8
+49 CD8F1
+50 Random bred albino rat
+51 Fischer 344 rat
+52 Wistar-Furth rat
+53 Lewis rat
+54 Buffalo rat
+55 AC1 rat
+56 Wistar rat
+57 Wistar/Lewis
+58 OM/N
+59 M520
+60 August 28807
+61 ACP (Piebald)
+62 Albany
+63 Copenhagen 2331
+64 Zimmerman 61
+65 Yoshida 38366
+66 NBR/P1
+69 rat species not specified
+70 Syrian hamster
+80 Embryonated egg
+90 Cell culture tube assay
+91 Chemical analysis
+93 Cell culture chromoatography
+94 bioautography
+95 Cell-free systems
+98 biochemical assay
+99 microbial

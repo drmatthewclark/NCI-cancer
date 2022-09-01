@@ -1,0 +1,21 @@
+ 1 mean tumor weight
+ 2 mean survival time
+ 3 median survival time
+ 4 survival time, nos
+ 5 ED50 concentration
+ 6 alkaloid content
+ 7 median tumor weight estimated from diameter
+ 8 mean tumor weight estimated from diameter
+ 9 mean tumor packed cell volume
+ A tumor volume
+ B percent inhibition
+ C ED50 in molar units
+ D delay in days of tumor growth at a point of tumor reovery post therapy
+ E median survival time, excluding tumor free animals
+ F median survival time;survivors listed for end of Rx not tox evalution day
+ G mean tumor weight change
+ H optimum mean tumor weight change
+ J median tumor weight change
+ K degree of reversal of cyclin AMP-induced change
+ L strength of induction reaction
+ N degree of inhibition of growth

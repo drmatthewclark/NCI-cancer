@@ -1,0 +1,54 @@
+00 None
+01 Methylcellulose(MC)
+02 Saline
+03 Acid diluted with saline
+04 Steroid suspending solution
+05 Alkali diluted with saline
+06 Olive oil, sesame oil, peanut oil
+07 Other
+08 Carboxymethylcellulose(CMC)
+09 Water
+10 Single (1X) Strength Eagles MEM (serumless)
+11 1% Dimethylsulfoxide (DMSO)
+12 1% Ethanol
+13 5% Dimethylformamide
+14 0.1% Dioxane
+15 0.5% IN HCL
+16 0.5% IN NaOH
+17 Distilled Water
+18 Single Strength 10% Hanks bal. Salt Sol.
+19 50% DMSO
+20 100% DMSO
+21 Chloroform
+22 10% IN NaOH
+0A Normal media
+0B Propylene glycol
+0C Acetone
+0D Alcohol
+0E Dimethylformamide
+0F Dioxane
+0G Dextrose
+0H Acid diluted with CMC
+0J Alkali diluted with water
+0K Lactate
+0L Clinical formulation
+0M Klucel (Hydroxypropylcellulose) (HPC)
+0N Suspension in Saline
+0P PVP
+0Q Citric acid
+0R Lactic acid
+0S Saline sonified
+0T Saline with Tween-80
+0U Gum acacia
+0V Sodium bicarbonate
+0W Saline + Tween 80 + alkali
+0X DMSO
+0Y Alkali diluted with CMC
+0Z Saline + alcohol
+0+ Distilled water + Tween 80
+0* Distilled water + alcohol
+0= Distilled water + Tween 80 + alcohol
+0% Saline + Tween 80 + alcohol
+0$ Klucel + Tween 80
+0# Water?
+0\ Water?
