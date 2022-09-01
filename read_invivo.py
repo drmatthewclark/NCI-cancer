@@ -1,13 +1,15 @@
 from urllib.request import urlopen
 import sys
-import time
+import os
 
-fname = 'invivodec02'
-delim = '|'
+fname = 'invivodec02' # file name
+ckpoint = 'checkpoint.cpk'
 
-dataset = []
+delim = '|'  # file delimiter
 
+# columns in file.  I don't know what the last one is
 columns = ['tumor', 'strain', 'site', 'schedule', 'route', 'vehicle', 'parameter', 'NSC', 'unit', 'dose', 'T/C', 'endpoint', 'survived', 'x' ]
+
 
 def read_dict(fname):
 	""" read mapping dictionaries from the NCI data instructions """
@@ -105,11 +107,45 @@ def createurl(number):
 	return queryurl
 
 
+def processrecord(i, datamap):
+
+	global cache_hits, cache_miss, cached_structure
+	cmpd = int(datamap['NSC'])
+
+	if i > 0 and i % log_interval == 0:
+		sys.stderr.write('wrote  %7d sdfiles cache_hit %6d cache_miss %6d \n' % (i, cache_hits, cache_miss) )
+
+	if cmpd in cached_structure:
+		cache_hits += 1
+		structure = cached_structure[cmpd]
+	else:
+		cache_miss += 1
+		url = createurl(cmpd)
+		structure = urlopen(url).read().decode('utf-8')
+		cached_structure[cmpd] = structure
+
+	structure = add_tags(structure, datamap)
+	print(structure)
+
 #------------------------------start processing --------------------------
 
-start = time.time()
+# cache structures to lower internet traffics
+cached_structure = dict()
+cache_hits = 0
+cache_miss = 0
+log_interval = 1000
+lastread = -10
+
+if os.path.exists(ckpoint):
+	with open(ckpoint, 'r') as f:
+		lastread = int(f.read())
+		sys.stderr.write('restarting at line ' +  str(lastread) + '\n')
+
 with open(fname, 'r') as file:
-	for line in file.readlines():
+	for count, line in enumerate(file.readlines()):
+		if count <= lastread:
+			continue
+
 		data = line.split(delim)
 		datamap = dict() 
 		for i, item in enumerate(data):
@@ -122,43 +158,12 @@ with open(fname, 'r') as file:
 			datamap['duration'] = duration( datamap['schedule'])
 
 		datamap = assess(datamap)
+		processrecord(count, datamap)
 
-		dataset.append(datamap)
+		# remember last entry read for restarting
+		with open(ckpoint, 'w') as f:
+			f.write(str(count))
 
-sys.stderr.write('read %7d records in %6.1f\n' % (len(dataset), (time.time()-start)) )
-
-# cache structures to lower internet traffics
-cached_structure = dict()
-cache_size = 10000
-cache_hits = 0
-cache_miss = 0
-log_interval = 1000
-start = time.time()
-
-# read the SDfiles and annotate
-for i, datamap in enumerate(dataset):
-	cmpd = int(datamap['NSC'])
-	if i > 0 and i % log_interval == 0:
-		pct = 100 * i/len(dataset)
-		elapsed = time.time() - start
-		remain = (i/elapsed * (len(dataset) - i))/60
-		sys.stderr.write('wrote  %7d sdfiles %7.5f%% cache_hit %6d cache_miss %6d remaining time %6.1f m\n' % (i, pct, cache_hits, cache_miss, remain) )
-
-	if cmpd in cached_structure:
-		structure = cached_structure[cmpd]
-		cache_hits += 1
-	else:
-		cache_miss += 1
-		url = createurl(cmpd)
-		structure = urlopen(url).read().decode('utf-8')
-		cached_structure[cmpd] = structure
-		if len(cached_structure) > cache_size:
-			for item in cached_structure:
-				cached_structure.pop(item)
-				break
-
-	structure = add_tags(structure, datamap)
-	print(structure)
 
 sys.stderr.write('END')
 
