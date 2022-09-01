@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 import sys
 import os
+import time
 
 fname = 'invivodec02' # file name
 ckpoint = 'checkpoint.cpk'
@@ -103,7 +104,15 @@ def add_tags(sdfile, datamap):
 
 def createurl(number):
 	queryformat = 'sdf'
-	queryurl = 'https://cactus.nci.nih.gov/chemical/structure/NSC%d/file?format=%s' % (number, queryformat)
+	queryurl = ''
+	done = False
+	while not done:
+		try:
+			queryurl = 'https://cactus.nci.nih.gov/chemical/structure/NSC%d/file?format=%s' % (number, queryformat)
+			done = True
+		except:
+			time.sleep(5)
+			
 	return queryurl
 
 
